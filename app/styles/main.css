@@ -1,0 +1,103 @@
+body{
+  
+   
+    background-color:#f49cf4;
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+  }
+    div > #conteiner{
+     
+      padding: 20px 60px;
+      
+      
+      -moz-border-radius: 10px;
+      webkit-border-radius: 10px;
+      box-shadow: 20px 20px 30px green;
+      -moz-box-box-shadow: 20px 20px 30px green;
+      -webkit-border-box-shadow: 20px 20px 30px green;
+      
+      }
+  
+  #conteiner{ 
+    
+    width:2px;
+    height:2px;
+    background-color:#d1d134;
+    margin:100px auto;
+    padding: 10px;
+    text-align: center;
+    
+    }
+
+    table{
+      width: 300px;
+     
+      text-align: center;
+      height:300px;
+      border-collapse: separate;
+      
+    
+    }
+    td{
+     
+      width: 33%;
+      
+      
+    }
+    .green{
+      border-radius: 180px 0px 0px 10px;
+      background-color: green;
+      color:green;
+      border-left: 10px solid #000000;
+      border-top: 10px solid #000000;
+      border-right: 10px solid #000000;
+      border-bottom: 10px solid #000000;
+      
+    }
+    .blue{
+      background-color:blue;
+      color:blue;
+        border-left: 10px solid #000000;
+      border-top: 10px solid #000000;
+      border-right: 10px solid #000000;
+      border-bottom: 10px solid #000000;
+      border-radius: 10px 180px 0px 0px;
+      
+    }
+    .red{
+      background-color:red;
+      color:red;
+        border-left: 10px solid #000000;
+      border-top: 10px solid #000000;
+      border-right: 10px solid #000000;
+      border-bottom: 10px solid #000000;
+      border-radius: 0px 0px 10px 180px;
+      
+    }
+    .yellow{
+      background-color:yellow;
+      color:yellow;
+      border-radius:0px 10px 180px 0px;
+       border-left: 10px solid #000000;
+      border-top: 10px solid #000000;
+      border-right: 10px solid #000000;
+      border-bottom: 10px solid #000000;
+      
+      
+    }
+    
+    .yellow:hover{
+      background-color:#afaa07;
+    }
+    
+  
+    .green:hover{
+      background-color:#72ba0e;
+    }
+    .red:hover{
+      background-color:#ef7575;
+    }
+    .blue:hover{
+      background-color:#187af2;
+    }
+  
