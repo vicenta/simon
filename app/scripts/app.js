@@ -29,12 +29,6 @@ angular
         controller: 'AboutCtrl',
         controllerAs: 'about'
       })
-      
-      .when('/simon', {
-        templateUrl: 'views/simon.html',
-        controller: 'SimonCtrl',
-        controllerAs: 'simon'
-      })
       .otherwise({
         redirectTo: '/'
       });
